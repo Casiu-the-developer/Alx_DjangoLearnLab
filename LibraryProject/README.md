@@ -1,12 +1,8 @@
-Alx_DjangoLearnLab/
-└── Introduction_to_Django/
-    └── LibraryProject/
-        ├── LibraryProject/
-        │   ├── __init__.py
-        │   ├── settings.py
-        │   ├── urls.py
-        │   ├── asgi.py
-        │   └── wsgi.py
-        ├── manage.py
-        └── README.md
-"# Alx_DjangoLearnLab" 
+LibraryProject/
+│── manage.py
+│── README.md   
+│── LibraryProject/
+│   ├── __init__.py
+│   ├── settings.py
+│   ├── urls.py
+│   └── wsgi.py
